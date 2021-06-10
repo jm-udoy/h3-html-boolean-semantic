@@ -1,0 +1,106 @@
+.css1{
+	background: #A4DD52;
+	color: #DD52A4;
+	border: 5px solid #52A4DD;
+}
+
+.nav1{
+	background: #7CE258;
+	
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+tbody{
+	background: yellow;
+}
+
+.tfoot1{
+	background: orange;
+}
+
+.th1{
+	background: lightgreen;
+}
+
+.th2{
+	background: lightblue;
+}
+
+.tr1{
+	background: lightpink;
+}
+
+.tr2{
+	background: lightblue;
+}
+
+.tr3{
+	background: lightgreen;
+}
+
+
+.semantic{
+	width: 100%;
+	background-color: #ffffff;
+	height: 700px;
+	
+}
+
+.sh1{
+	
+	width: 100%;
+	background-color: #e7337c;
+	text-align: center;
+	padding: 5px 0px;
+	border-style: solid;
+}
+
+
+.sn1{
+	/*float: left;*/
+	width: 100%;
+	background-color: #bbb881;
+	text-align: center;
+	padding: 10px 0px;
+	border-style: solid;
+}
+
+.ss1{
+	float: left;
+	width: 75%;
+	background-color: #e6ac84;
+	text-align: center;
+	padding: 150px 0px;
+	border-style: solid;
+}
+
+.sa1{
+	float: left;
+	width: 75%;
+	background-color: #6F77E8;
+	text-align: center;
+	padding: 150px 0px;
+	border-style: solid;
+}
+
+.saside1{
+	float: right;
+	width: 24%;
+	background-color: #68DDE8;
+	text-align: center;
+	padding: 336px 0px;
+	border-style: solid;
+	margin: auto;
+}
+
+.sf1{
+	float: left;
+	width: 100%;
+	background-color: #75a897;
+	text-align: center;
+	padding: 30px 0px;
+	border-style: solid;
+}
